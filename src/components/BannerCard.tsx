@@ -20,7 +20,7 @@ export const BannerCard: React.FC<BannerCardProps> = ({ banner, scale = 1 }) => 
     <motion.div
       initial={{ opacity: 0, scale: 0.95 }}
       animate={{ opacity: 1, scale: 1 }}
-      className="relative overflow-hidden shadow-2xl rounded-lg border border-white/10"
+      className="relative overflow-hidden shadow-lg rounded-lg border border-black/10"
       style={{
         width: width * scale,
         height: height * scale,
