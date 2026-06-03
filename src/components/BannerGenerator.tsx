@@ -133,7 +133,7 @@ export const BannerGenerator: React.FC = () => {
             <div className="w-10 h-10 bg-gradient-to-br from-orange-500 to-rose-600 rounded-xl flex items-center justify-center shadow-lg shadow-orange-500/20">
               <Sparkles className="w-6 h-6 text-white" />
             </div>
-            <h1 className="text-xl font-bold tracking-tight">AdGen Pro</h1>
+            <h1 className="text-xl font-bold tracking-tight">test 123</h1>
           </div>
           <nav className="flex items-center bg-neutral-900 p-1 rounded-xl border border-neutral-800">
             <button 
@@ -379,7 +379,7 @@ export const BannerGenerator: React.FC = () => {
       {/* Footer */}
       <footer className="border-t border-neutral-900 mt-24 py-12">
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-6 text-neutral-500 text-sm">
-          <p>© 2026 AdGen Pro. Powered by Google Gemini AI.</p>
+          <p>© 2026 test 123. Powered by Google Gemini AI.</p>
           <div className="flex items-center gap-8">
             <a href="#" className="hover:text-white transition-colors">Privacy</a>
             <a href="#" className="hover:text-white transition-colors">Terms</a>
